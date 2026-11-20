@@ -77,7 +77,7 @@ A prototype business data analysis interface built with a React and TypeScript f
 
 ## Find Me Online
 
-- **Portfolio:** [Visit my portfolio](https://khaiyen-salaria.github.io/khaiyensalaria.github.io2/)
+- **Portfolio:** [Visit my portfolio](https://khaiyen-salaria.github.io/khaiyensalaria.github.iov2/)
 - **LinkedIn:** [Khaiyen Salaria](https://www.linkedin.com/in/khaiyensalaria/)
 - **Facebook:** [Khaiyen Salaria Digital Solutions](https://www.facebook.com/KhaiyenSalariaOfficial)
 - **Instagram:** [@khaiyen_salaria](https://www.instagram.com/khaiyen_salaria/)
