@@ -10,7 +10,7 @@ I enjoy turning ideas into functional digital solutions, exploring new technolog
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 **Languages**
 - Python
