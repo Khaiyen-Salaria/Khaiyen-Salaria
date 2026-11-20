@@ -1,4 +1,4 @@
-# Hi, I'm Khaiyen Salaria 
+# Hi, I'm Khaiyen Salaria
 
 ### Freelance Web Developer | Python, Flask & TypeScript
 
@@ -10,7 +10,7 @@ I enjoy turning ideas into functional digital solutions, exploring new technolog
 
 ---
 
-##  Technologies & Tools
+## Technologies & Tools
 
 **Languages**
 - Python
@@ -32,50 +32,34 @@ I enjoy turning ideas into functional digital solutions, exploring new technolog
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-### 1. Hanami — Client & Project Management CRM
+### Hanami — Client & Project Management CRM
+A CRM application designed to organize client records, projects, tasks, proposals, contracts, invoices, and business workflows.
 
-A locally hosted CRM designed to manage clients, projects, tasks, proposals, contracts, invoices, and business workflows.
+### Amiyen — Business Mathematics Calculator
+A browser-based calculator featuring business mathematics tools, calculation history, and data export capabilities.
 
-**Technologies:** Python, Flask, SQLite, SQLAlchemy
+### QR Attendance System
+A QR-based attendance management system designed to simplify student check-ins, check-outs, and attendance recordkeeping.
 
-[View Repository](https://github.com/Khaiyen-Salaria/Hanami)
-
-### 2. QR Attendance System
-
-A QR-based attendance management system designed to simplify student check-ins, check-outs, attendance records, and reporting.
-
-**Technologies:** Python
-
-[View Repository](https://github.com/Khaiyen-Salaria/Attendance-System-by-Khaiyen)
-
-### 3. Amiyen — Business Mathematics Calculator
-
-A browser-based business mathematics calculator featuring multiple calculation modules, calculation history, dashboard functionality, and CSV exports.
-
-[View Repository](https://github.com/Khaiyen-Salaria/Amiyen)
-
-### 4. Khami — Business Data Analysis Interface
-
-A prototype business data analysis interface built with a React and TypeScript frontend and a Python API.
-
-*Note: This project is a prototype; its machine-learning engine is not yet connected.*
-
-[View Repository](https://github.com/Khaiyen-Salaria/Khami)
+### Khami — Business Data Analysis Interface
+A prototype interface exploring business data analysis and visualization workflows.
 
 ---
 
-##  What I Build
+## What I Do
 
-- Responsive websites and web applications
-- Custom business systems and CRM solutions
-- Workflow automation and practical digital tools
-- Data management and spreadsheet solutions
+- **Web Development** — Responsive websites and custom web applications.
+- **Business Systems** — CRM platforms, dashboards, and management tools.
+- **Automation** — Practical tools that simplify repetitive workflows.
+- **Data Management** — Spreadsheet organization and structured business data.
 
 ---
 
-## Find Me Online
+## Let's Connect
+
+I'm open to freelance opportunities, collaborations, and projects where I can build useful digital solutions.
 
 - **Portfolio:** [Visit my portfolio](https://khaiyen-salaria.github.io/khaiyensalaria.github.iov2/)
 - **LinkedIn:** [Khaiyen Salaria](https://www.linkedin.com/in/khaiyensalaria/)
@@ -85,12 +69,4 @@ A prototype business data analysis interface built with a React and TypeScript f
 
 ---
 
-##  Let's Connect
-
-Interested in working together or discussing a project?
-
-Feel free to connect with me through LinkedIn or my portfolio.
-
----
-
-*Building practical digital solutions, one project at a time.*
+*Building practical software. Solving real problems. Improving every day.*
